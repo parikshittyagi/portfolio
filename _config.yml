@@ -1,2 +1,4 @@
 title: Parikshit Tyagi
+plugins:
+  - jemoji
 theme: jekyll-theme-minimal
