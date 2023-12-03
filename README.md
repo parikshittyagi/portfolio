@@ -17,7 +17,8 @@
 
 ## Work Experience 
 
-** Platform Owner @ Hero Motocorp (_June 21 - Present_) **
+**Platform Owner @ Hero Motocorp (_June 21 - Present_)**
+- 
 
 
 
