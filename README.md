@@ -12,9 +12,8 @@
 
 ### Education
 
-- <img align="left" width="10%" height="10%" src="https://github.com/parikshittyagi/portfolio/assets/32409255/b6a8cea3-ada4-47d0-b4a7-bcd6d6cdc2d2"> | Product Management | ISB Hyderabad (_Dec 21 - April 22_)
-
-
+- <img align="left" width="33%" height="33%" src="https://github.com/parikshittyagi/portfolio/assets/32409255/b6a8cea3-ada4-47d0-b4a7-bcd6d6cdc2d2"> | Product Management | ISB Hyderabad (_Dec 21 - April 22_)
+- <img align="left" width="33%" height="33%" src="https://github.com/parikshittyagi/portfolio/assets/32409255/35030a89-686a-4cf4-99e0-3827213a60b3"> | PGD - IoT | CDAC-Acts (_Aug 17 - Jan 18_)
 
 
 
