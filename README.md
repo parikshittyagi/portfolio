@@ -6,10 +6,10 @@
 
 ##### I am a graduate of the University of Delhi, who loves to talk about topics such as
 
-##### Technology: Connected Vehicle Ecosystem, Design Patterns, Distributed Architectures, IoT-based communication protocols.
-##### Product: Building products from 0 to 1 and scaling them, Technical Product Management, User personas, and customer deep insights.
-##### Life: Spirituality, Meaning of Life, Meditation, Purposed-driven lifestyle. 
-##### Others: Travelling, Reading, Animes, etc
+- **Technology** : Connected Vehicle Ecosystem, Design Patterns, Distributed Architectures, IoT-based communication protocols.
+- **Product** : Building products from 0 to 1 and scaling them, Technical Product Management, User personas, and customer deep insights.
+- **Life** : Spirituality, Meaning of Life, Meditation, Purposed-driven lifestyle. 
+- **Others** : Travelling, Reading, Animes, etc
 
 
 
