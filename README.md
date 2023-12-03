@@ -12,7 +12,8 @@
 
 ### Education
 
-- <img align="left" width="33%" height="33%" src="https://github.com/parikshittyagi/portfolio/assets/32409255/b6a8cea3-ada4-47d0-b4a7-bcd6d6cdc2d2"> | Product Management | ISB Hyderabad (_Dec 21 - April 22_)
+- <img align="left" src="https://github.com/parikshittyagi/portfolio/assets/32409255/b6a8cea3-ada4-47d0-b4a7-bcd6d6cdc2d2"> | Product Management | ISB Hyderabad (_Dec 21 - April 22_)
+
 // - ![ISB](https://github.com/parikshittyagi/portfolio/assets/32409255/b6a8cea3-ada4-47d0-b4a7-bcd6d6cdc2d2) | Product Management | ISB Hyderbad (_Dec 21 - April 22_)
 - 
 
