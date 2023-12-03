@@ -13,8 +13,8 @@
 ### Education
 
 - <img align="left" width="33%" height="33%" src="https://github.com/parikshittyagi/portfolio/assets/32409255/b6a8cea3-ada4-47d0-b4a7-bcd6d6cdc2d2"> | Product Management | ISB Hyderabad (_Dec 21 - April 22_)
-- <img align="left" width="25%" height="25%" src="https://github.com/parikshittyagi/portfolio/assets/32409255/35030a89-686a-4cf4-99e0-3827213a60b3"> | PGD - IoT | CDAC-Acts (_Aug 17 - Jan 18_)
-- <img align="left" width="33%" height="33%" src="(https://github.com/parikshittyagi/portfolio/assets/32409255/e564c057-f5e7-4118-9ded-0e1ffc04039f)"> | B.Tech (Electronics) | University of Delhi (_2013 - 2017_)
+- <img align="left" width="20%" height="20%" src="https://github.com/parikshittyagi/portfolio/assets/32409255/35030a89-686a-4cf4-99e0-3827213a60b3"> | PGD - IoT | CDAC-Acts (_Aug 17 - Jan 18_)
+- <img align="left" width="75%" height="75%" src="(https://github.com/parikshittyagi/portfolio/assets/32409255/e564c057-f5e7-4118-9ded-0e1ffc04039f)"> | B.Tech (Electronics) | University of Delhi (_2013 - 2017_)
 
 
 
