@@ -1,7 +1,6 @@
 # Product and Engineering :thought_balloon:
 
 #### Hello there  :wave: !!
-#### Welcome to my Portfolio :crossed_fingers:
 
 ##### I am a graduate of the University of Delhi, who loves to talk about topics such as
 
@@ -13,8 +12,13 @@
 ### Education
 
 - Product Management | ISB Hyderabad (_Dec 21 - April 22_)
-- PGD - IoT | CDAC-Acts (_Aug 17 - Jan 18_)
-- B.Tech (Electronics) | University of Delhi (_2013 - 2017_)
+- Post Graduation Diploma - IoT | CDAC-Acts (_Aug 17 - Jan 18_)
+- B.Tech - Electronics | University of Delhi (_2013 - 2017_)
+
+## Work Experience 
+
+** Platform Owner @ Hero Motocorp (_June 21 - Present_)**
+
 
 
 
